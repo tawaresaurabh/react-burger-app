@@ -1,26 +1,26 @@
 [
     {
       "id": "1",
-      "name": "Burger",
+      "name": "Chicken Sandwich",
       "price": 5,
       "time" : 15,
-      "description": "A tiny burger",
-      "steps" : ["GRILLED", "ADDED_SAUCE" , "ADDED_VEGGIES"]
+      "description": "Sandwich with roasted chicken with lemon and coriander sprinkles",
+      "steps" : ["GRILLED CHICKEN", "ADDED_SAUCE" , "ADDED_VEGGIES"]
     },
     {   "id": "2",
-        "name": "Burger with Fries",
-        "price": 10,
+        "name": "Cheese Sandwich",
+        "price": 1,
         "time" : 20,
-        "description": "A bit bigger burger",
-        "steps" : ["GRILLED", "ADDED_SAUCE" , "ADDED_VEGGIES", "ADDED_FRIES"]
+        "description": "2X in size but lower in price",
+        "steps" : ["GRILLED", "ADDED_SAUCE" , "ADDED_VEGGIES", "ADDED_CHEESE"]
       },
     {
       "id": "3",
-      "name": "Burger Meal",
-      "price": 20,
+      "name": "Salmon Sandwich",
+      "price": 2.35,
       "time" : 30,
-      "description": "Biggest burger",
-      "steps" : ["GRILLED", "ADDED_SAUCE" , "ADDED_VEGGIES", "ADDED_FRIES", "MADE_DRINKS" , "MADE_SALADS" ]
+      "description": "Norweigian Salmon Sandwich",
+      "steps" : ["GRILLED", "ADDED_SAUCE" , "ADDED_VEGGIES", "ADDED_SLICED_SALMONS", "MADE_DRINKS" , "MADE_SALADS" ]
     }
     
   ]
